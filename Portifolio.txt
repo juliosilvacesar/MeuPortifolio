@@ -1,0 +1,11 @@
+Olá me chamo Julio, sou desenvolvedor de sistemas web já fazem quase 2 anos, e tudo começou no instituto federal de ciência e tecnolocia do Rio Grande do Norte - Campus Macau em que me formei como técnico de informática. No momento estou cursando analises e desenvolvimento de sistemas pela Faculdade Unirb Natal/RN. Atuei como analista de Service Desk no setor de Controle de Acessos nos anos de 2020 a meados de março de 2021. Sou uma pessoa bastante proativa e gosto de compartilhar conhecimento com meus colegas de trabalho.
+
+Para anexa o depoimento portifolio do site section <!--depoimento-->
+  <footer class="blockquote-footer">Enviar para o email: <u>juliocesra38@gmail.com</u>. <cite title="Source Title">'Necessario informar o setor e onde trabalha'.</cite></footer>
+
+hospedagem do meu site
+https://juliosilva.netlify.app/
+
+UP DE IMAGEM PARA O SITE:
+https://salvatorealmeida.imgbb.com/
+
