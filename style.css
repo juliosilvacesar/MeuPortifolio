@@ -1,0 +1,57 @@
+p {
+    font-family: Lato, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.foto-perfil {
+    height: 100%;
+    max-width: auto;
+    border-radius: 50%;
+}
+
+.icones {
+    height: 100%;
+    max-width: auto;
+    border-radius: 50%;
+}
+
+.titulosBrancos {
+    text-decoration: underline;
+    text-underline-position: under;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: white;
+}
+
+.titulosVerdes {
+    text-decoration: underline;
+    text-underline-position: under;
+    padding-bottom: 20px;
+    text-transform: uppercase;
+    font-weight: 700;
+    color: #000000
+}
+
+.paragrafoBrancos {
+    color: white !important;
+}
+
+.jumbotron {
+    margin-bottom: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+p {
+    color: #007bff !important;
+}
+
+.corPrimaria {
+    background-color: #101312;
+}
+
+.itemMenu {
+    color: white;
+}
